@@ -10,8 +10,13 @@
 	max-width:100%;
 }
 
+.profile-pic2 {
+	max-height: 80%;
+	max-width:80%;
+}
+
 .person {
-	color: #70ebef;
+	color: #70ebef !important; 
 	font-size: 35px;
 }
 
@@ -31,14 +36,17 @@
 	background-color: #c1d9ff !important;
 }
 
-.jumbotron {
+.homepage {
+  background-image: url(../img/ozil.png);
   background-size: cover;
   color: white;
+  min-height: 80%;
 }
 
 .description {
-  background-image: url(../img/background.JPG);
+  background-image: url(../img/ozil.png);
   background-repeat: repeat-x;
+  background-size:
 }
 
 .body {
@@ -46,6 +54,26 @@
   color: #69707a;
   font-family: "Open Sans", Arial, sans-serif;
 }
+
+.card2 {
+	border: solid #021026 2px;
+	border-radius:4px;
+	padding: 10px;
+	margin-bottom:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
