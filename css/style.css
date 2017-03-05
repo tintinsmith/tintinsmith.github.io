@@ -1,0 +1,52 @@
+.card {
+	border: solid #021026 2px;
+	border-radius:4px;
+	padding: 10px;
+	box-shadow: 10px 10px 10px #888888;
+	margin-bottom:10px;
+}
+
+.profile-pic {
+	max-width:100%;
+}
+
+.person {
+	color: #70ebef;
+	font-size: 35px;
+}
+
+.small-text {
+	font-size: 20px;
+}
+
+.mynav {
+	color: !important;
+}
+
+.navbar-style {
+	background-color: #70ebef ;
+}
+
+.my-link:hover {
+	background-color: #c1d9ff !important;
+}
+
+.jumbotron {
+  background-size: cover;
+  color: white;
+}
+
+.description {
+  background-image: url(../img/background.JPG);
+  background-repeat: repeat-x;
+}
+
+.body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+
+
+
